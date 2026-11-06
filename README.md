@@ -7,7 +7,8 @@ NEXUS is a systems architecture and engineering project focused on integrating i
 The project is designed around the same principles I use when approaching larger technical environments: understand how the individual systems interact, identify dependencies and failure points, build resilient paths, centralize operational visibility, and create an architecture that can evolve without becoming dependent on a single platform or service.
 ## Architecture Overview
 
-![NEXUS Architecture Overview](Designer.png)
+<img width="1536" height="1024" alt="nexus-architecture-overview" src="https://github.com/user-attachments/assets/0904f8f1-05f2-4965-abe8-c007ce3407c3" />
+
 
 ## Operations Interface
 
