@@ -1,10 +1,14 @@
 # NEXUS
 
 ### Personal Infrastructure & AI Operations Platform
+**A resilient, provider-neutral operations platform integrating infrastructure visibility, automation, monitoring, and AI-assisted decision support.**
 
 NEXUS is a systems architecture and engineering project focused on integrating infrastructure, networking, automation, monitoring, and AI-assisted operations into a unified environment.
 
 The project is designed around the same principles I use when approaching larger technical environments: understand how the individual systems interact, identify dependencies and failure points, build resilient paths, centralize operational visibility, and create an architecture that can evolve without becoming dependent on a single platform or service.
+
+**Key Concepts:** Systems Architecture · Infrastructure Monitoring · Automation · Resiliency · AI-Assisted Operations · Centralized Visibility
+
 ## Architecture Overview
 
 <img width="1536" height="1024" alt="nexus-architecture-overview" src="https://github.com/user-attachments/assets/0904f8f1-05f2-4965-abe8-c007ce3407c3" />
