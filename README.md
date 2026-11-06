@@ -9,7 +9,13 @@ The project is designed around the same principles I use when approaching larger
 
 ![NEXUS Architecture Overview](Designer.png)
 
-*Sanitized high-level architecture overview. Production implementation details, internal addressing, credentials, and security configurations are intentionally excluded.*
+## Operations Interface
+
+The NEXUS operations interface provides a centralized view of infrastructure health, resource utilization, cluster status, active services, and current operational objectives.
+
+![NEXUS Operations Interface](./nexus-operations-interface.png)
+
+*Sanitized operations interface. Internal addressing, credentials, security configuration, and non-public implementation details are intentionally excluded.*
 
 ## Design Goals
 
