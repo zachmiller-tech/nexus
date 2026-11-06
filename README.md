@@ -117,10 +117,6 @@ Planned public documentation includes:
 - Additional sanitized interface screenshots
 - Architecture decision examples
 - Project evolution and lessons learned
-
-## Documentation
-
-- [Architecture & Design Decisions](./DESIGN_DECISIONS.md)
   
 ## Portfolio Notice
 
